@@ -1,3 +1,4 @@
+note sikuli
 doubleClick("1602795011371.png")
 wait("1602798230471.png")
 click("1602798230471.png")
